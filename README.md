@@ -4,9 +4,9 @@
 
 <h3> E Uma aplicação basica.</h3>
 
-### Tecnologias Utilizadas:
-###HTML 5.
-###CSS.
+Tecnologias Utilizadas:
+HTML 5.
+CSS.
 
 Recriação Da pagina da netflix
 
